@@ -1,1 +1,1 @@
-This project is to practice implemeting what i have learned about html. I worked on adding links and images as well as headings and text styling. # odin-recipes
+This project is to practice implementing what i have learned about html. I worked on adding links and images as well as headings and text styling. # odin-recipes
